@@ -1,10 +1,11 @@
+import Shows from "./Shows/Shows";
 
 
 const Home = () => {
     return (
-        <div>
-            This is Home
-        </div>
+        <>
+        <Shows/>
+        </>
     );
 };
 
